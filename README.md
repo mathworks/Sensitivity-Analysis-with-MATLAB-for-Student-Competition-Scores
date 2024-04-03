@@ -19,7 +19,7 @@ For the current demo, our attention will be on the student competition score fun
 
 <table>
 <tr>
-<td> <img src="images/Course Layout.png" alt="Course Layout" style="width: 250px;"/> </td>
+<td> <img src="images/Course_Layout.png" alt="Course Layout" style="width: 250px;"/> </td>
 <td> <img src="images/Total_Mission_Score_Analysis.png" alt="Total Mission Score Analysis" style="width: 250px;"/> </td>
 </tr>
 <tr>
