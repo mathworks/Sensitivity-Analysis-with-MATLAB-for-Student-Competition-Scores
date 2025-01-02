@@ -10,11 +10,9 @@
 
 ## Introduction
 
-Sensitivity Analysis (SA) is a technique used to measure the impact of uncertainties in input variables on output variables in a model. SA aims to determine which input variables impact the output most and identify the range of values in which the model is most sensitive. This information helps to design a robust model with reduced uncertainties. 
+This repository presents the MATLAB code for performing Sensitivity Analysis (SA) for student competitions. In these competitions, it is used here specifically to evaluate score sensitivity. It helps teams identify the most sensitive design variables and optimize their vehicle designs to maximize their overall score.
 
-SA is practiced in a range of fields, including but not limited to finance, engineering, and economics. Specifically, in the field of engineering design, it helps engineers optimize their designs and to improve the quality, reliability, and performance of the system. Model aircraft design competitions, such as the AIAA DBF and SAE Aero Design, are no exception. SA is used here specifically to evaluate score sensitivity. It helps teams identify the most sensitive design variables and optimize their vehicle designs to maximize their score.
-
-For the current demo, our attention will be on the student competition score function. Especially competitions focused on model aircraft design, i.e., AIAA Design Build Fly, SAE AeroDesign, etc., as a case study to investigate how distinctive design variables affect the mission score. To demonstrate this, we will use the scoring function, from the AIAA Design Build Fly Competition 2021 Rule Book, with MATLAB plotting approach. By the end of this demo, you will better understand how to make informed design choices to optimize the competition score.
+This code discusses the design parameters sensivity for the student competition score function, especially competitions focused on model aircraft design, i.e., AIAA Design Build Fly, SAE AeroDesign, etc. It helps to investigate how distinctive design variables affect the mission score. To demonstrate this, we will use the scoring function, from the AIAA Design Build Fly Competition 2021 Rule Book, with MATLAB plotting approach. By the end of this demo, you will better understand how to make informed design choices to optimize the competition score.
 
 
 <table>
