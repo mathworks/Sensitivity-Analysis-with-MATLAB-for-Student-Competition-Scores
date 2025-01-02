@@ -10,9 +10,9 @@
 
 ## Introduction
 
-This repository presents the MATLAB code for performing Sensitivity Analysis (SA) for student competitions. In these competitions, it is used here specifically to evaluate score sensitivity. It helps teams identify the most sensitive design variables and optimize their vehicle designs to maximize their overall score.
+This repository presents the MATLAB plotting approach for performing Sensitivity Analysis (SA) for student competitions. It is used here specifically to evaluate score sensitivity. It helps teams identify the most sensitive design variables and optimize their vehicle designs to maximize their overall score.
 
-This code discusses the design parameters sensivity for the student competition score function, especially competitions focused on model aircraft design, i.e., AIAA Design Build Fly, SAE AeroDesign, etc. It helps to investigate how distinctive design variables affect the mission score. To demonstrate this, we will use the scoring function, from the AIAA Design Build Fly Competition 2021 Rule Book, with MATLAB plotting approach. By the end of this demo, you will better understand how to make informed design choices to optimize the competition score.
+This code discusses the design parameter sensitivity for the student competition score function, especially competitions focused on model aircraft design, i.e., AIAA Design Build Fly, SAE Aero Design, etc. It helps to investigate how distinctive design variables affect the mission score. To demonstrate this, we will use the scoring function, from the AIAA Design Build Fly Competition 2021 Rule Book, with MATLAB plotting approach. By the end of this demo, you will better understand how to make informed design choices to optimize the competition score.
 
 
 <table>
