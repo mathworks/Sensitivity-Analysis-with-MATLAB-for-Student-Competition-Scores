@@ -30,7 +30,7 @@ This code discusses the design parameter sensitivity for the student competition
 ### Learn more with the detailed video
 
 <a href="https://www.youtube.com/watch?v=yqDAxIWwTUw&t=129s">
-  <img src="Images/Thumbanil.png" alt="Watch the video" width="800">
+  <img src="images/Thumbanil.png" alt="Watch the video" width="800">
 </a>
 
 <!--- If your project includes a visualization or any images or an App please include a screenshot in this README --->
